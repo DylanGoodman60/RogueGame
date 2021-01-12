@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="8.35">
+<file name="C:\Users\Dylan\Desktop\project\src\main\java\rogue\Clothing.java">
+</file>
+<file name="C:\Users\Dylan\Desktop\project\src\main\java\rogue\Door.java">
+</file>
+<file name="C:\Users\Dylan\Desktop\project\src\main\java\rogue\Edible.java">
+</file>
+<file name="C:\Users\Dylan\Desktop\project\src\main\java\rogue\Food.java">
+</file>
+<file name="C:\Users\Dylan\Desktop\project\src\main\java\rogue\ImpossiblePositionException.java">
+</file>
+<file name="C:\Users\Dylan\Desktop\project\src\main\java\rogue\InvalidMoveException.java">
+</file>
+<file name="C:\Users\Dylan\Desktop\project\src\main\java\rogue\Item.java">
+</file>
+<file name="C:\Users\Dylan\Desktop\project\src\main\java\rogue\Magic.java">
+</file>
+<file name="C:\Users\Dylan\Desktop\project\src\main\java\rogue\NoSuchItemException.java">
+</file>
+<file name="C:\Users\Dylan\Desktop\project\src\main\java\rogue\NotEnoughDoorsException.java">
+</file>
+<file name="C:\Users\Dylan\Desktop\project\src\main\java\rogue\Player.java">
+</file>
+<file name="C:\Users\Dylan\Desktop\project\src\main\java\rogue\Potion.java">
+</file>
+<file name="C:\Users\Dylan\Desktop\project\src\main\java\rogue\Ring.java">
+</file>
+<file name="C:\Users\Dylan\Desktop\project\src\main\java\rogue\Rogue.java">
+</file>
+<file name="C:\Users\Dylan\Desktop\project\src\main\java\rogue\RogueParser.java">
+</file>
+<file name="C:\Users\Dylan\Desktop\project\src\main\java\rogue\Room.java">
+</file>
+<file name="C:\Users\Dylan\Desktop\project\src\main\java\rogue\SmallFood.java">
+</file>
+<file name="C:\Users\Dylan\Desktop\project\src\main\java\rogue\Symbol.java">
+</file>
+<file name="C:\Users\Dylan\Desktop\project\src\main\java\rogue\Tossable.java">
+</file>
+<file name="C:\Users\Dylan\Desktop\project\src\main\java\rogue\Wearable.java">
+</file>
+<file name="C:\Users\Dylan\Desktop\project\src\main\java\rogue\WindowUI.java">
+</file>
+</checkstyle>
