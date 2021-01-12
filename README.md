@@ -3,8 +3,8 @@ dylan.goodman60@gmail.com
 
 To operate the program:
 
-gradle build
-gradle run || java -jar build/libs/A1.jar
+$gradle build
+$java -jar build/libs/A3.jar
 
 -Displays rooms with symbols given by JSON file
 -Player can move around room and into doors
